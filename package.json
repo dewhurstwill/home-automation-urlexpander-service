@@ -1,5 +1,5 @@
 {
-  "name": "home-automation-shorturlexpander-service",
+  "name": "home-automation-urlexpander-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "Will Dewhust. <will@wdew.uk> (https://hello.wdew.uk)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dewhurstwill/home-automation-shorturlexpander-service.git"
+    "url": "https://github.com/dewhurstwill/home-automation-urlexpander-service.git"
   },
   "license": "MIT",
   "dependencies": {
